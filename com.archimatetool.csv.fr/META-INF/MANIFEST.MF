@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Language Pack
-Bundle-SymbolicName: com.archimatetool.csv.en
-Bundle-Version: 4.0.0.qualifier
+Bundle-SymbolicName: com.archimatetool.csv.fr
+Bundle-Version: 0.0.0.qualifier
 Fragment-Host: com.archimatetool.csv
-Bundle-ClassPath: com.archimatetool.csv.en.jar
+Bundle-ClassPath: com.archimatetool.csv.fr.jar
